@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rahul Jaiwal
+- 👋 Hi, I’m Rahul Jaiswal
 - 👀 I’m interested in Web technologies and programing.
 - 🌱 I’m currently learning Javascript and algorithms.
 - 💞️ I’m looking to collaborate on Web development.
