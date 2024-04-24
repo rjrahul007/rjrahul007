@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Rahul Jaiswal
 - 👀 I’m interested in Web technologies and programming.
-- 🌱 I’m currently learning Javascript and algorithms.
+- 🌱 I’m currently learning React and algorithms.
 - 💞️ I’m looking to collaborate on Web development.
 - 📫 How to reach me - hit me at rjrahool007@gmail.com
-
-
