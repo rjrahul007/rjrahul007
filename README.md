@@ -46,16 +46,6 @@
 
 ---
 
-### ✨ Featured Projects
-
-| Project | Tech Stack | Description |
-|--------|------------|-------------|
-| [🚘 Ace Car Rental](https://www.acecarrentals.in) | React, Node, PostgreSQL | Self-driving car rental service with Paytm integration |
-| [📡 ISP Billing Dashboard](#) | Next.js, MongoDB, Tailwind | Modern dashboard for broadband plan management |
-| [📱 Notification Sender UI](#) | React, Gallabox API | Multi-step WhatsApp & SMS notification system |
-
----
-
 ### 📫 Connect With Me
 
 <p align="center">
